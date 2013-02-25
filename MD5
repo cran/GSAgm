@@ -1,0 +1,15 @@
+ae7ed5e64edb356d35b32b10a42b4e27 *DESCRIPTION
+39ee4cbdd0bd931ca40f28ef46d4f801 *NAMESPACE
+273c1b6fbdcaf423d3d5676e0229a05b *R/PCgamma.R
+3deaf4ef4518f89eb6d072906434b96d *R/RNAgamma.R
+2053927542cc9b2680368fe778f7234e *R/STTtoShapeParameter.R
+fdc4f22e4e41685c27500708242c8026 *data/gene_example.rda
+bec95f2b9397b412a4953c61685399c2 *data/rnaseq_counts.rda
+7f418cfbebd26b964bf386ea759aecf9 *data/testdata.rda
+5f6093553ededfc427df375e8e67ee23 *man/GSAgm-package.Rd
+8f81c666866a2909068b95de5cd8d934 *man/PCgamma.Rd
+b3812a0d92af8d88d6f59f4505303acf *man/RNAgamma.Rd
+0ed844f9c47fb35ade24cf682e6537b3 *man/STTtoShapeParameter.Rd
+16070b32ef69753f065f6e7f3ed3d849 *man/gene_example.Rd
+eea10c82c7d24c115ad1f31750318eeb *man/rnaseq_counts.Rd
+e1d380b6ed426a25569489c122b59ac8 *man/testdata.Rd
